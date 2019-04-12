@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Let's test Hamlet,
   'example4':
-      'Let's test Moby Dick'
+      'One of the most overrated places on Earth!'
       
 };
 
