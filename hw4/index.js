@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Let's test Macbeth,
+      'Lets test Macbeth,
   'example2':
-      'Let's test Julius Caesar,
+      'Lets test Julius Caesar,
   'example3':
-      'Let's test Hamlet,
+      'Lets test Hamlet,
   'example4':
-      'One of the most overrated places on Earth!'
+      'Test Moby dick!'
       
 };
 
