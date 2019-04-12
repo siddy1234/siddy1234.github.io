@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Let's test Macbeth,
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Let's test Julius Caesar,
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Let's test Hamlet,
   'example4':
-      'One of the most overrated places on Earth!'
+      'Let's test Moby Dick'
       
 };
 
