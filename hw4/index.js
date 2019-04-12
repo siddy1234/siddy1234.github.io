@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Lets test Macbeth,
+      'Lets test Macbeth',
   'example2':
-      'Lets test Julius Caesar,
+      'Lets test Julius Caesar',
   'example3':
-      'Lets test Hamlet,
+      'Lets test Hamlet',
   'example4':
       'Test Moby dick!'
       
