@@ -12,7 +12,7 @@ const examples = {
   'example2':
       'In another moment down went Alice after it, never once considering how in the world she was to get out again.',
   'example3':
-      'Treble confusion, wrath and vengeance pourd',
+      'But his doom Reserved him to more wrath ; for now the thought Both of lost happiness and lasting pain Torments him',
   'example4':
       'The Whale is a mammiferous animal without hind feet'
       
