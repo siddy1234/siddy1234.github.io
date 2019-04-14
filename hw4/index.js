@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Lets test Macbeth',
+      'There to meet with Macbeth',
   'example2':
-      'Lets test Julius Caesar',
+      'In another moment down went Alice after it, never once considering how in the world she was to get out again.',
   'example3':
-      'Lets test Hamlet',
+      'Treble confusion, wrath and vengeance pourd',
   'example4':
-      'Test Moby dick!'
+      'The Whale is a mammiferous animal without hind feet'
       
 };
 
