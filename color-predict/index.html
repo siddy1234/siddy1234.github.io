@@ -1,0 +1,53 @@
+
+<!doctype html>
+
+<body>
+  <style>
+    #textfield {
+      font-size: 120%;
+      width: 60%;
+      height: 200px;
+    }
+  </style>
+  <h1>
+    Generate color
+  </h1>
+  <hr>
+  <div class="create-model" style="padding:20px">
+    <button id="load-model" style="display:none">Load model</button>
+  </div>
+  <div>
+    <div>
+      <span>Vocabulary size: </span>
+      <span id="vocabularySize"></span>
+    </div>
+    <div>
+      <span>Max length: </span>
+      <span id="maxLen"></span>
+    </div>
+  </div>
+  <hr>
+  
+  <div style="padding:20px">
+  Color name : &nbsp;&nbsp;&nbsp;
+    <textarea id="text-entry"></textarea>
+    <div class="create-model" style="padding:20px">
+      <button id="display-color">Display</button>
+    </div>
+  </div>
+  <hr>
+  
+  <div class="input-color">
+    
+    <div id="color-space" style="float:left; width:100px; height:100px; margin:5px; border:1px solid black; background-color:white;"></div>
+  </div>
+  
+  <div  style="margin-top:10%">
+    <div id="status">Standing by.</div>
+  </div>
+  
+  
+
+  <script src='https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js'></script>
+  <script src='index.js'></script>
+</body>
